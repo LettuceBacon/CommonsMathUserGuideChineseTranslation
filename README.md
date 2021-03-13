@@ -7,24 +7,24 @@
 
 ## 进度
 
-- [] Contents
+- [ ] Contents
 - [x] Overview
-- [] Statistics
-- [] Data Generation
-- [] Linear Algebra
-- [] Numerical Analysis
-- [] Special Functions
-- [] Utilities
-- [] Complex Numbers
-- [] Distributions
-- [] Fractions
-- [] Transform Methods
-- [] Geometry
-- [] Optimization
-- [] Curve Fitting
-- [] Least Squares
-- [] Ordinary Differential Equations
-- [] Genetic Algorithms
-- [] Filters
-- [] Machine Learning
-- [] Exceptions
+- [ ] Statistics
+- [ ] Data Generation
+- [ ] Linear Algebra
+- [ ] Numerical Analysis
+- [ ] Special Functions
+- [ ] Utilities
+- [ ] Complex Numbers
+- [ ] Distributions
+- [ ] Fractions
+- [ ] Transform Methods
+- [ ] Geometry
+- [ ] Optimization
+- [ ] Curve Fitting
+- [ ] Least Squares
+- [ ] Ordinary Differential Equations
+- [ ] Genetic Algorithms
+- [ ] Filters
+- [ ] Machine Learning
+- [ ] Exceptions
