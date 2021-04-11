@@ -11,7 +11,7 @@
 - [x] Overview
 - [ ] Statistics
 - [ ] Data Generation
-- [ ] Linear Algebra
+- [x] Linear Algebra
 - [ ] Numerical Analysis
 - [ ] Special Functions
 - [ ] Utilities
