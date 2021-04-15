@@ -26,5 +26,5 @@
 - [ ] Ordinary Differential Equations
 - [ ] Genetic Algorithms
 - [ ] Filters
-- [ ] Machine Learning
+- [x] Machine Learning
 - [ ] Exceptions
